@@ -9,7 +9,7 @@ export default function Directions({destination, origin, onReady}) {
       destination={destination}
       origin={origin}
       onReady={onReady}
-      apikey="AIzaSyBx6NoXrdidG54afid6yUhRgucvGi_ju60"
+      apikey="AIzaSy6NoXrdidG54afid6yUgucvGi_60"
       strokeWidth={3}
       strokeColor="#000"
     />
